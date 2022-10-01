@@ -1,5 +1,5 @@
 # textReplace
-bash script for text replacement in all files in and under passed in directory
+bash script for text replacement in all files in ***and under*** passed in directory
 
 positional arguments (in order):
   - [text to replace]
@@ -7,3 +7,5 @@ positional arguments (in order):
   - [directory]
   - [file stem identifier]
   - [file suffix]
+
+sample command line:  ./textReplace.sh replacingThis withThis . \* .txt
