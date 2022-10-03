@@ -9,7 +9,7 @@ positional arguments (in order):
   - [file suffix]
 
 **WARNING 1:** Script will open and resave all files (so dates will change)\
-**WARNING 2:** The replacement is recursive!!!\
+**WARNING 2:** The replacement considers files and folders in ***ALL*** subdirectories!!!\
 **WARNING 3:** The suffix argument does ***NOT*** limit which directories are renamed!!!\
 **WARNING 4:** ***ALL*** text in files, filenames, and dirnames matching will be altered!!!\
 
