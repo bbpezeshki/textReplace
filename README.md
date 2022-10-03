@@ -10,7 +10,7 @@ positional arguments (in order):
 
 **WARNING 1:** Script will open and resave all files (so dates will change)\
 **WARNING 2:** The replacement is recursive!!!\
-**WARNING 3:** The suffix argument does **not** limit which directories are renamed!!!\
+**WARNING 3:** The suffix argument does ***NOT*** limit which directories are renamed!!!\
 **WARNING 4:** ***ALL*** text in files, filenames, and dirnames matching will be altered!!!\
 
 sample command lines
