@@ -1,5 +1,5 @@
 # textReplace
-bash script for text replacement in all files in ***and under*** passed in directory
+bash script for text replacement for the ***contents*** of all matching files and within ***the names*** of all matching files and folders in ***and under*** the passed in directory
 
 positional arguments (in order):
   - [text to replace]
