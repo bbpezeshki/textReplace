@@ -17,3 +17,5 @@ sample command lines
 ---------------------
 - ./textReplace.sh &nbsp; replacingThisText &nbsp; withThisText &nbsp; /in/this/dir &nbsp; \\* &nbsp; .txt\
     --> will recursively match with ***ALL*** dirs and subdirs and all files with suffix .txt
+- ./textReplace.sh &nbsp; replacingThisText &nbsp; withThisText &nbsp; /in/this/dir &nbsp; hiHello &nbsp; .txt\
+    --> will recursively match with ***ALL*** dirs and subdirs that have hiHello in their names and all files with suffix .txt that have hiHello in their names
